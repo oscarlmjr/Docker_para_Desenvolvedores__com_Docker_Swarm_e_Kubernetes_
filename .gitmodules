@@ -1,3 +1,6 @@
-[submodule "Docker_Section_3__1_imagens_e_containers"]
+[submodule "Section_3__1_imagens_e_containers"]
 	path = Section_3__1_imagens_e_containers
 	url = git@github.com:oscarlmjr/Docker_Section_3__1_imagens_e_containers.git
+[submodule "Docker_Section_4__2_volumes"]
+	path = Section_4__2_volumes
+	url = git@github.com:oscarlmjr/Docker_Section_4__2_volumes.git
