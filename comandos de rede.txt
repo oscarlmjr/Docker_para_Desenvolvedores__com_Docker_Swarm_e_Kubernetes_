@@ -1,0 +1,4 @@
+netstat -ano | findstr :3306
+tasklist /FI "PID eq <1234>"
+taskkill /PID <1234> /F
+
