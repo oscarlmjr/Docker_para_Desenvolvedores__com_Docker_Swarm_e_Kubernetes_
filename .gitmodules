@@ -4,6 +4,6 @@
 [submodule "Section_4__2_volumes"]
 	path = Section_4__2_volumes
 	url = git@github.com:oscarlmjr/Docker_Section_4__2_volumes.git
-[submodule "Docker_Section_5__3_network"]
+[submodule "Section_5__3_network"]
 	path = Section_5__3_network
 	url = git@github.com:oscarlmjr/Docker_Section_5__3_network.git
