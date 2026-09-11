@@ -1,1 +1,3 @@
+Docker Official Images
+A curated set of Docker repositories hosted on Docker Hub.
 https://hub.docker.com/u/library
